@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3406_T48_703176">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 3406</ph> - COMPETITION REQUIREMENTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 41 U.S.C. 418(a) and (b); and 20 U.S.C. 1018a.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           76 FR 12796, Mar. 8, 2011, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_3406_001_T48_703176011.dita#Section_3406_001_T48_703176011">3406.001 Applicability.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3406_3_T48_7031761.dita#Subpart_3406_3_T48_7031761">Subpart 3406.3 - Other Than Full and Open Competition</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3406_302_5_T48_703176111.dita#Section_3406_302_5_T48_703176111">3406.302-5 Authorized or required by statute.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3406_5_T48_7031762.dita#Subpart_3406_5_T48_7031762">Subpart 3406.5 - Competition Advocates</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3406_501_T48_703176211.dita#Section_3406_501_T48_703176211">3406.501 Requirement.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

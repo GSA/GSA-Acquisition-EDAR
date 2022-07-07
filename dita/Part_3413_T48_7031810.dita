@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3413_T48_7031810">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 3413</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 20 U.S.C. 1018a.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           76 FR 12796, Mar. 8, 2011, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_3413_000_T48_7031810011.dita#Section_3413_000_T48_7031810011">3413.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_3413_003_T48_7031810012.dita#Section_3413_003_T48_7031810012">3413.003 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3413_3_T48_70318101.dita#Subpart_3413_3_T48_70318101">Subpart 3413.3 - Simplified Acquisition Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3413_303_T48_7031810111.dita#Section_3413_303_T48_7031810111">3413.303 Blanket purchase agreements (BPAs).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3413_303_5_T48_7031810112.dita#Section_3413_303_5_T48_7031810112">3413.303-5 Purchases under BPAs.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
