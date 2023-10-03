@@ -3,8 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3439_T48_7032124">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3439</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <title class="- topic/title ">PART 3439—ACQUISITION OF INFORMATION TECHNOLOGY
+
+
+
+
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +26,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3439_70_T48_70321241.dita#Subpart_3439_70_T48_70321241">Subpart 3439.70 - Department Requirements for Acquisition of Information Technology</xref>
+                        href="Subpart_3439_70_T48_70321241.dita#Subpart_3439_70_T48_70321241">Subpart 3439.70—Department Requirements for Acquisition of Information Technology</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

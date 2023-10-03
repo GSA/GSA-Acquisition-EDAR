@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map
   PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
-<map outputclass="dfars" otherprops="String2Xref">
-   <title> CHAPTER 34 - DEPARTMENT OF EDUCATION ACQUISITION REGULATION</title>
+<map outputclass="ecfr" otherprops="String2Xref">
+   <title> CHAPTER 34—DEPARTMENT OF EDUCATION ACQUISITION REGULATION</title>
    <topicref navtitle="Volume Number"
              href="VolumeChapter_34_T48_703.dita"
-             props="CHAPTER 34"
+             props="CHAPTER 34—DEPARTMENT OF EDUCATION ACQUISITION REGULATION"
              outputclass="Volume">
       <topicref navtitle="Chapter Title"
                 href="Chapter_34_T48_703.dita"
-                props="CHAPTER 34"/>
+                props="CHAPTER 34—DEPARTMENT OF EDUCATION ACQUISITION REGULATION"/>
    </topicref>
-   <topicref navtitle="SUBCHAPTER A - GENERAL &#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER A—GENERAL &#xA;&#xA;&#xA;"
              href="Subchapter_A_T48_70316.dita"
-             props="SUBCHAPTER A"
+             props="SUBCHAPTER A—GENERAL"
              outputclass="SubChapter">
       <topicref navtitle="PART 3400 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_3400_T48_703161.dita"
                 props="PART 3400"
                 outputclass="Part"/>
-      <topicref navtitle="PART 3401 - ED ACQUISITION REGULATION SYSTEM &#xA;"
+      <topicref navtitle="PART 3401—ED ACQUISITION REGULATION SYSTEM &#xA;&#xA;&#xA;"
                 href="Part_3401_T48_703162.dita"
-                props="PART 3401"
+                props="PART 3401—ED ACQUISITION REGULATION SYSTEM"
                 outputclass="Part">
          <topicref navtitle="3401.000   Scope of part."
                    href="Section_3401_000_T48_703162011.dita"
                    props="3401.000"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 3401.1 - Purpose, Authority, Issuance"
+         <topicref navtitle="Subpart 3401.1—Purpose, Authority, Issuance"
                    href="Subpart_3401_1_T48_7031621.dita"
-                   props="Subpart 3401.1"
+                   props="Subpart 3401.1—Purpose, Authority, Issuance"
                    outputclass="SubPart">
             <topicref navtitle="3401.104   Applicability."
                       href="Section_3401_104_T48_703162111.dita"
@@ -48,9 +48,9 @@
                       props="3401.105-3"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3401.3 - Agency Acquisition Regulations"
+         <topicref navtitle="Subpart 3401.3—Agency Acquisition Regulations"
                    href="Subpart_3401_3_T48_7031622.dita"
-                   props="Subpart 3401.3"
+                   props="Subpart 3401.3—Agency Acquisition Regulations"
                    outputclass="SubPart">
             <topicref navtitle="3401.301   Policy."
                       href="Section_3401_301_T48_703162211.dita"
@@ -65,9 +65,9 @@
                       props="3401.304"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3401.4 - Deviations"
+         <topicref navtitle="Subpart 3401.4—Deviations"
                    href="Subpart_3401_4_T48_7031623.dita"
-                   props="Subpart 3401.4"
+                   props="Subpart 3401.4—Deviations"
                    outputclass="SubPart">
             <topicref navtitle="3401.401   Definition."
                       href="Section_3401_401_T48_703162311.dita"
@@ -82,9 +82,9 @@
                       props="3401.404"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3401.5 - Agency and Public Participation"
+         <topicref navtitle="Subpart 3401.5—Agency and Public Participation"
                    href="Subpart_3401_5_T48_7031624.dita"
-                   props="Subpart 3401.5"
+                   props="Subpart 3401.5—Agency and Public Participation"
                    outputclass="SubPart">
             <topicref navtitle="3401.501   Solicitation of agency and public views."
                       href="Section_3401_501_T48_703162411.dita"
@@ -95,9 +95,9 @@
                       props="3401.501-2"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3401.6 - Career Development, Contracting Authority, and Responsibilities"
+         <topicref navtitle="Subpart 3401.6—Career Development, Contracting Authority, and Responsibilities"
                    href="Subpart_3401_6_T48_7031625.dita"
-                   props="Subpart 3401.6"
+                   props="Subpart 3401.6—Career Development, Contracting Authority, and Responsibilities"
                    outputclass="SubPart">
             <topicref navtitle="3401.601   General."
                       href="Section_3401_601_T48_703162511.dita"
@@ -125,13 +125,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3402 - DEFINITIONS OF WORDS AND TERMS&#xA;"
+      <topicref navtitle="PART 3402—DEFINITIONS OF WORDS AND TERMS&#xA;&#xA;&#xA;"
                 href="Part_3402_T48_703163.dita"
-                props="PART 3402"
+                props="PART 3402—DEFINITIONS OF WORDS AND TERMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3402.1 - Definitions"
+         <topicref navtitle="Subpart 3402.1—Definitions"
                    href="Subpart_3402_1_T48_7031631.dita"
-                   props="Subpart 3402.1"
+                   props="Subpart 3402.1—Definitions"
                    outputclass="SubPart">
             <topicref navtitle="3402.101   Definitions."
                       href="Section_3402_101_T48_703163111.dita"
@@ -142,9 +142,9 @@
                       props="3402.101-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3402.2 - Definitions Clause"
+         <topicref navtitle="Subpart 3402.2—Definitions Clause"
                    href="Subpart_3402_2_T48_7031632.dita"
-                   props="Subpart 3402.2"
+                   props="Subpart 3402.2—Definitions Clause"
                    outputclass="SubPart">
             <topicref navtitle="3402.201   Contract clause."
                       href="Section_3402_201_T48_703163211.dita"
@@ -152,13 +152,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3403 - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;"
+      <topicref navtitle="PART 3403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST&#xA;&#xA;&#xA;"
                 href="Part_3403_T48_703164.dita"
-                props="PART 3403"
+                props="PART 3403—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3403.1 - Safeguards"
+         <topicref navtitle="Subpart 3403.1—Safeguards"
                    href="Subpart_3403_1_T48_7031641.dita"
-                   props="Subpart 3403.1"
+                   props="Subpart 3403.1—Safeguards"
                    outputclass="SubPart">
             <topicref navtitle="3403.101   Standards of conduct."
                       href="Section_3403_101_T48_703164111.dita"
@@ -169,36 +169,36 @@
                       props="3403.101-3"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3403.2 - Contractor Gratuities to Government Personnel"
+         <topicref navtitle="Subpart 3403.2—Contractor Gratuities to Government Personnel"
                    href="Subpart_3403_2_T48_7031642.dita"
-                   props="Subpart 3403.2"
+                   props="Subpart 3403.2—Contractor Gratuities to Government Personnel"
                    outputclass="SubPart">
             <topicref navtitle="3403.203   Reporting suspected violations of the Gratuities clause."
                       href="Section_3403_203_T48_703164211.dita"
                       props="3403.203"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3403.3 - Reports of Suspected Antitrust Violations"
+         <topicref navtitle="Subpart 3403.3—Reports of Suspected Antitrust Violations"
                    href="Subpart_3403_3_T48_7031643.dita"
-                   props="Subpart 3403.3"
+                   props="Subpart 3403.3—Reports of Suspected Antitrust Violations"
                    outputclass="SubPart">
             <topicref navtitle="3403.301   General."
                       href="Section_3403_301_T48_703164311.dita"
                       props="3403.301"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3403.4 - Contingent Fees"
+         <topicref navtitle="Subpart 3403.4—Contingent Fees"
                    href="Subpart_3403_4_T48_7031644.dita"
-                   props="Subpart 3403.4"
+                   props="Subpart 3403.4—Contingent Fees"
                    outputclass="SubPart">
             <topicref navtitle="3403.409   Misrepresentation or violations of the covenant against contingent fees."
                       href="Section_3403_409_T48_703164411.dita"
                       props="3403.409"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3403.6 - Contracts with Government Employees or Organizations Owned or Controlled by Them"
+         <topicref navtitle="Subpart 3403.6—Contracts with Government Employees or Organizations Owned or Controlled by Them"
                    href="Subpart_3403_6_T48_7031645.dita"
-                   props="Subpart 3403.6"
+                   props="Subpart 3403.6—Contracts with Government Employees or Organizations Owned or Controlled by Them"
                    outputclass="SubPart">
             <topicref navtitle="3403.602   Exceptions."
                       href="Section_3403_602_T48_703164511.dita"
@@ -207,17 +207,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER B - COMPETITION AND ACQUISITION PLANNING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING&#xA;&#xA;&#xA;"
              href="Subchapter_B_T48_70317.dita"
-             props="SUBCHAPTER B"
+             props="SUBCHAPTER B—COMPETITION AND ACQUISITION PLANNING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3405 - PUBLICIZING CONTRACT ACTIONS&#xA;"
+      <topicref navtitle="PART 3405—PUBLICIZING CONTRACT ACTIONS&#xA;&#xA;&#xA;"
                 href="Part_3405_T48_703175.dita"
-                props="PART 3405"
+                props="PART 3405—PUBLICIZING CONTRACT ACTIONS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3405.2 - Synopses of Proposed Contract Actions"
+         <topicref navtitle="Subpart 3405.2—Synopses of Proposed Contract Actions"
                    href="Subpart_3405_2_T48_7031751.dita"
-                   props="Subpart 3405.2"
+                   props="Subpart 3405.2—Synopses of Proposed Contract Actions"
                    outputclass="SubPart">
             <topicref navtitle="3405.202   Exceptions."
                       href="Section_3405_202_T48_703175111.dita"
@@ -240,9 +240,9 @@
                       props="3405.270"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3405.5 - Paid Advertisements"
+         <topicref navtitle="Subpart 3405.5—Paid Advertisements"
                    href="Subpart_3405_5_T48_7031752.dita"
-                   props="Subpart 3405.5"
+                   props="Subpart 3405.5—Paid Advertisements"
                    outputclass="SubPart">
             <topicref navtitle="3405.502   Authority."
                       href="Section_3405_502_T48_703175211.dita"
@@ -250,26 +250,26 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3406 - COMPETITION REQUIREMENTS&#xA;"
+      <topicref navtitle="PART 3406—COMPETITION REQUIREMENTS&#xA;&#xA;&#xA;"
                 href="Part_3406_T48_703176.dita"
-                props="PART 3406"
+                props="PART 3406—COMPETITION REQUIREMENTS"
                 outputclass="Part">
          <topicref navtitle="3406.001   Applicability."
                    href="Section_3406_001_T48_703176011.dita"
                    props="3406.001"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 3406.3 - Other Than Full and Open Competition"
+         <topicref navtitle="Subpart 3406.3—Other Than Full and Open Competition"
                    href="Subpart_3406_3_T48_7031761.dita"
-                   props="Subpart 3406.3"
+                   props="Subpart 3406.3—Other Than Full and Open Competition"
                    outputclass="SubPart">
             <topicref navtitle="3406.302-5   Authorized or required by statute."
                       href="Section_3406_302_5_T48_703176111.dita"
                       props="3406.302-5"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3406.5 - Competition Advocates"
+         <topicref navtitle="Subpart 3406.5—Competition Advocates"
                    href="Subpart_3406_5_T48_7031762.dita"
-                   props="Subpart 3406.5"
+                   props="Subpart 3406.5—Competition Advocates"
                    outputclass="SubPart">
             <topicref navtitle="3406.501   Requirement."
                       href="Section_3406_501_T48_703176211.dita"
@@ -277,13 +277,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3408 - REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;"
+      <topicref navtitle="PART 3408—REQUIRED SOURCES OF SUPPLIES AND SERVICES&#xA;&#xA;&#xA;"
                 href="Part_3408_T48_703177.dita"
-                props="PART 3408"
+                props="PART 3408—REQUIRED SOURCES OF SUPPLIES AND SERVICES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3408.8 - Acquisition of Printing and Related Supplies"
+         <topicref navtitle="Subpart 3408.8—Acquisition of Printing and Related Supplies"
                    href="Subpart_3408_8_T48_7031771.dita"
-                   props="Subpart 3408.8"
+                   props="Subpart 3408.8—Acquisition of Printing and Related Supplies"
                    outputclass="SubPart">
             <topicref navtitle="3408.870   Printing clause."
                       href="Section_3408_870_T48_703177111.dita"
@@ -295,13 +295,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3409 - CONTRACTOR QUALIFICATIONS&#xA;"
+      <topicref navtitle="PART 3409—CONTRACTOR QUALIFICATIONS&#xA;&#xA;&#xA;"
                 href="Part_3409_T48_703178.dita"
-                props="PART 3409"
+                props="PART 3409—CONTRACTOR QUALIFICATIONS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3409.4 - Debarment, Suspension, and Ineligibility"
+         <topicref navtitle="Subpart 3409.4—Debarment, Suspension, and Ineligibility"
                    href="Subpart_3409_4_T48_7031781.dita"
-                   props="Subpart 3409.4"
+                   props="Subpart 3409.4—Debarment, Suspension, and Ineligibility"
                    outputclass="SubPart">
             <topicref navtitle="3409.400   Scope of subpart."
                       href="Section_3409_400_T48_703178111.dita"
@@ -332,9 +332,9 @@
                       props="3409.407-3"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3409.5 - Organizational and Consultant Conflicts of Interest"
+         <topicref navtitle="Subpart 3409.5—Organizational and Consultant Conflicts of Interest"
                    href="Subpart_3409_5_T48_7031782.dita"
-                   props="Subpart 3409.5"
+                   props="Subpart 3409.5—Organizational and Consultant Conflicts of Interest"
                    outputclass="SubPart">
             <topicref navtitle="3409.502   Applicability."
                       href="Section_3409_502_T48_703178211.dita"
@@ -366,22 +366,22 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3412 - ACQUISITION OF COMMERCIAL ITEMS&#xA;"
+      <topicref navtitle="PART 3412—ACQUISITION OF COMMERCIAL ITEMS&#xA;&#xA;&#xA;"
                 href="Part_3412_T48_703179.dita"
-                props="PART 3412"
+                props="PART 3412—ACQUISITION OF COMMERCIAL ITEMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3412.2 - Special Requirements for the Acquisition of Commercial Items"
+         <topicref navtitle="Subpart 3412.2—Special Requirements for the Acquisition of Commercial Items"
                    href="Subpart_3412_2_T48_7031791.dita"
-                   props="Subpart 3412.2"
+                   props="Subpart 3412.2—Special Requirements for the Acquisition of Commercial Items"
                    outputclass="SubPart">
             <topicref navtitle="3412.203   Procedures for solicitation, evaluation, and award."
                       href="Section_3412_203_T48_703179111.dita"
                       props="3412.203"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3412.3 - Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
+         <topicref navtitle="Subpart 3412.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
                    href="Subpart_3412_3_T48_7031792.dita"
-                   props="Subpart 3412.3"
+                   props="Subpart 3412.3—Solicitation Provisions and Contract Clauses for the Acquisition of Commercial Items"
                    outputclass="SubPart">
             <topicref navtitle="3412.302   Tailoring of provisions and clauses for the acquisition of commercial items."
                       href="Section_3412_302_T48_703179211.dita"
@@ -390,13 +390,13 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER C - CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES&#xA;&#xA;&#xA;"
              href="Subchapter_C_T48_70318.dita"
-             props="SUBCHAPTER C"
+             props="SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3413 - SIMPLIFIED ACQUISITION PROCEDURES&#xA;"
+      <topicref navtitle="PART 3413—SIMPLIFIED ACQUISITION PROCEDURES&#xA;&#xA;&#xA;"
                 href="Part_3413_T48_7031810.dita"
-                props="PART 3413"
+                props="PART 3413—SIMPLIFIED ACQUISITION PROCEDURES"
                 outputclass="Part">
          <topicref navtitle="3413.000   Scope of part."
                    href="Section_3413_000_T48_7031810011.dita"
@@ -406,9 +406,9 @@
                    href="Section_3413_003_T48_7031810012.dita"
                    props="3413.003"
                    outputclass="Section"/>
-         <topicref navtitle="Subpart 3413.3 - Simplified Acquisition Methods"
+         <topicref navtitle="Subpart 3413.3—Simplified Acquisition Methods"
                    href="Subpart_3413_3_T48_70318101.dita"
-                   props="Subpart 3413.3"
+                   props="Subpart 3413.3—Simplified Acquisition Methods"
                    outputclass="SubPart">
             <topicref navtitle="3413.303   Blanket purchase agreements (BPAs)."
                       href="Section_3413_303_T48_7031810111.dita"
@@ -420,13 +420,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3414 - SEALED BIDDING&#xA;"
+      <topicref navtitle="PART 3414—SEALED BIDDING&#xA;&#xA;&#xA;"
                 href="Part_3414_T48_7031811.dita"
-                props="PART 3414"
+                props="PART 3414—SEALED BIDDING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3414.4 - Opening of Bids and Award of Contract"
+         <topicref navtitle="Subpart 3414.4—Opening of Bids and Award of Contract"
                    href="Subpart_3414_4_T48_70318111.dita"
-                   props="Subpart 3414.4"
+                   props="Subpart 3414.4—Opening of Bids and Award of Contract"
                    outputclass="SubPart">
             <topicref navtitle="3414.407   Mistakes in bids."
                       href="Section_3414_407_T48_7031811111.dita"
@@ -438,22 +438,22 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3415 - CONTRACTING BY NEGOTIATION&#xA;"
+      <topicref navtitle="PART 3415—CONTRACTING BY NEGOTIATION&#xA;&#xA;&#xA;"
                 href="Part_3415_T48_7031812.dita"
-                props="PART 3415"
+                props="PART 3415—CONTRACTING BY NEGOTIATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3415.2 - Solicitation and Receipt of Proposals and Information"
+         <topicref navtitle="Subpart 3415.2—Solicitation and Receipt of Proposals and Information"
                    href="Subpart_3415_2_T48_70318121.dita"
-                   props="Subpart 3415.2"
+                   props="Subpart 3415.2—Solicitation and Receipt of Proposals and Information"
                    outputclass="SubPart">
             <topicref navtitle="3415.209   Solicitation provisions and contract clauses."
                       href="Section_3415_209_T48_7031812111.dita"
                       props="3415.209"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3415.3 - Source Selection"
+         <topicref navtitle="Subpart 3415.3—Source Selection"
                    href="Subpart_3415_3_T48_70318122.dita"
-                   props="Subpart 3415.3"
+                   props="Subpart 3415.3—Source Selection"
                    outputclass="SubPart">
             <topicref navtitle="3415.302   Source selection objective."
                       href="Section_3415_302_T48_7031812211.dita"
@@ -464,9 +464,9 @@
                       props="3415.302-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3415.6 - Unsolicited Proposals"
+         <topicref navtitle="Subpart 3415.6—Unsolicited Proposals"
                    href="Subpart_3415_6_T48_70318123.dita"
-                   props="Subpart 3415.6"
+                   props="Subpart 3415.6—Unsolicited Proposals"
                    outputclass="SubPart">
             <topicref navtitle="3415.605   Content of unsolicited proposals."
                       href="Section_3415_605_T48_7031812311.dita"
@@ -478,13 +478,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3416 - TYPES OF CONTRACTS&#xA;"
+      <topicref navtitle="PART 3416—TYPES OF CONTRACTS&#xA;&#xA;&#xA;"
                 href="Part_3416_T48_7031813.dita"
-                props="PART 3416"
+                props="PART 3416—TYPES OF CONTRACTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3416.3 - Cost-Reimbursement Contracts"
+         <topicref navtitle="Subpart 3416.3—Cost-Reimbursement Contracts"
                    href="Subpart_3416_3_T48_70318131.dita"
-                   props="Subpart 3416.3"
+                   props="Subpart 3416.3—Cost-Reimbursement Contracts"
                    outputclass="SubPart">
             <topicref navtitle="3416.303   Cost-sharing contracts."
                       href="Section_3416_303_T48_7031813111.dita"
@@ -495,9 +495,9 @@
                       props="3416.307"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3416.4 - Incentive Contracts"
+         <topicref navtitle="Subpart 3416.4—Incentive Contracts"
                    href="Subpart_3416_4_T48_70318132.dita"
-                   props="Subpart 3416.4"
+                   props="Subpart 3416.4—Incentive Contracts"
                    outputclass="SubPart">
             <topicref navtitle="3416.402   Application of predetermined, formula-type incentives."
                       href="Section_3416_402_T48_7031813211.dita"
@@ -512,9 +512,9 @@
                       props="3416.470"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3416.6 - Time-and-Materials, Labor-Hour, and Letter Contracts"
+         <topicref navtitle="Subpart 3416.6—Time-and-Materials, Labor-Hour, and Letter Contracts"
                    href="Subpart_3416_6_T48_70318133.dita"
-                   props="Subpart 3416.6"
+                   props="Subpart 3416.6—Time-and-Materials, Labor-Hour, and Letter Contracts"
                    outputclass="SubPart">
             <topicref navtitle="3416.603   Letter contracts."
                       href="Section_3416_603_T48_7031813311.dita"
@@ -526,13 +526,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3417 - SPECIAL CONTRACTING METHODS&#xA;"
+      <topicref navtitle="PART 3417—SPECIAL CONTRACTING METHODS&#xA;&#xA;&#xA;"
                 href="Part_3417_T48_7031814.dita"
-                props="PART 3417"
+                props="PART 3417—SPECIAL CONTRACTING METHODS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3417.2 - Options"
+         <topicref navtitle="Subpart 3417.2—Options"
                    href="Subpart_3417_2_T48_70318141.dita"
-                   props="Subpart 3417.2"
+                   props="Subpart 3417.2—Options"
                    outputclass="SubPart">
             <topicref navtitle="3417.204   Contracts."
                       href="Section_3417_204_T48_7031814111.dita"
@@ -543,18 +543,18 @@
                       props="3417.207"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3417.5 - Interagency Acquisitions Under the Economy Act"
+         <topicref navtitle="Subpart 3417.5—Interagency Acquisitions Under the Economy Act"
                    href="Subpart_3417_5_T48_70318142.dita"
-                   props="Subpart 3417.5"
+                   props="Subpart 3417.5—Interagency Acquisitions Under the Economy Act"
                    outputclass="SubPart">
             <topicref navtitle="3417.502   General."
                       href="Section_3417_502_T48_7031814211.dita"
                       props="3417.502"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3417.7 - Modular Contracting"
+         <topicref navtitle="Subpart 3417.7—Modular Contracting"
                    href="Subpart_3417_7_T48_70318143.dita"
-                   props="Subpart 3417.7"
+                   props="Subpart 3417.7—Modular Contracting"
                    outputclass="SubPart">
             <topicref navtitle="3417.70   Modular contracting."
                       href="Section_3417_70_T48_7031814311.dita"
@@ -563,17 +563,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER D - SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS&#xA;&#xA;&#xA;"
              href="Subchapter_D_T48_70319.dita"
-             props="SUBCHAPTER D"
+             props="SUBCHAPTER D—SOCIOECONOMIC PROGRAMS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3419 - SMALL BUSINESS PROGRAMS&#xA;"
+      <topicref navtitle="PART 3419—SMALL BUSINESS PROGRAMS&#xA;&#xA;&#xA;"
                 href="Part_3419_T48_7031915.dita"
-                props="PART 3419"
+                props="PART 3419—SMALL BUSINESS PROGRAMS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3419.2 - Policies"
+         <topicref navtitle="Subpart 3419.2—Policies"
                    href="Subpart_3419_2_T48_70319151.dita"
-                   props="Subpart 3419.2"
+                   props="Subpart 3419.2—Policies"
                    outputclass="SubPart">
             <topicref navtitle="3419.201   General policy."
                       href="Section_3419_201_T48_7031915111.dita"
@@ -584,9 +584,9 @@
                       props="3419.201-70"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3419.5 - Set-Asides for Small Business"
+         <topicref navtitle="Subpart 3419.5—Set-Asides for Small Business"
                    href="Subpart_3419_5_T48_70319152.dita"
-                   props="Subpart 3419.5"
+                   props="Subpart 3419.5—Set-Asides for Small Business"
                    outputclass="SubPart">
             <topicref navtitle="3419.502   Setting aside acquisitions."
                       href="Section_3419_502_T48_7031915211.dita"
@@ -598,13 +598,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3422 - APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;"
+      <topicref navtitle="PART 3422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3422_T48_7031916.dita"
-                props="PART 3422"
+                props="PART 3422—APPLICATION OF LABOR LAWS TO GOVERNMENT ACQUISITIONS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3422.10 - Service Contract Act of 1965, as Amended"
+         <topicref navtitle="Subpart 3422.10—Service Contract Act of 1965, as Amended"
                    href="Subpart_3422_10_T48_70319161.dita"
-                   props="Subpart 3422.10"
+                   props="Subpart 3422.10—Service Contract Act of 1965, as Amended"
                    outputclass="SubPart">
             <topicref navtitle="3422.1002   Statutory requirements."
                       href="Section_3422_1002_T48_7031916111.dita"
@@ -616,13 +616,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3424 - PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;"
+      <topicref navtitle="PART 3424—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION&#xA;&#xA;&#xA;"
                 href="Part_3424_T48_7031917.dita"
-                props="PART 3424"
+                props="PART 3424—PROTECTION OF PRIVACY AND FREEDOM OF INFORMATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3424.1 - Protection of Individual Privacy"
+         <topicref navtitle="Subpart 3424.1—Protection of Individual Privacy"
                    href="Subpart_3424_1_T48_70319171.dita"
-                   props="Subpart 3424.1"
+                   props="Subpart 3424.1—Protection of Individual Privacy"
                    outputclass="SubPart">
             <topicref navtitle="3424.103   Procedures."
                       href="Section_3424_103_T48_7031917111.dita"
@@ -633,9 +633,9 @@
                       props="3424.170"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3424.2 - Freedom of Information Act"
+         <topicref navtitle="Subpart 3424.2—Freedom of Information Act"
                    href="Subpart_3424_2_T48_70319172.dita"
-                   props="Subpart 3424.2"
+                   props="Subpart 3424.2—Freedom of Information Act"
                    outputclass="SubPart">
             <topicref navtitle="3424.201   Authority."
                       href="Section_3424_201_T48_7031917211.dita"
@@ -647,13 +647,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3425 - FOREIGN ACQUISITION&#xA;"
+      <topicref navtitle="PART 3425—FOREIGN ACQUISITION&#xA;&#xA;&#xA;"
                 href="Part_3425_T48_7031918.dita"
-                props="PART 3425"
+                props="PART 3425—FOREIGN ACQUISITION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3425.1 - Buy American Act - Supplies"
+         <topicref navtitle="Subpart 3425.1—Buy American Act—Supplies"
                    href="Subpart_3425_1_T48_70319181.dita"
-                   props="Subpart 3425.1"
+                   props="Subpart 3425.1—Buy American Act—Supplies"
                    outputclass="SubPart">
             <topicref navtitle="3425.102   Exceptions."
                       href="Section_3425_102_T48_7031918111.dita"
@@ -662,17 +662,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER E - GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS&#xA;&#xA;&#xA;"
              href="Subchapter_E_T48_70320.dita"
-             props="SUBCHAPTER E"
+             props="SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3427 - PATENTS, DATA, AND COPYRIGHTS&#xA;"
+      <topicref navtitle="PART 3427—PATENTS, DATA, AND COPYRIGHTS&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3427_T48_7032019.dita"
-                props="PART 3427"
+                props="PART 3427—PATENTS, DATA, AND COPYRIGHTS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3427.4 - Rights in Data and Copyrights"
+         <topicref navtitle="Subpart 3427.4—Rights in Data and Copyrights"
                    href="Subpart_3427_4_T48_70320191.dita"
-                   props="Subpart 3427.4"
+                   props="Subpart 3427.4—Rights in Data and Copyrights"
                    outputclass="SubPart">
             <topicref navtitle="3427.409   Solicitation provisions and contract clauses."
                       href="Section_3427_409_T48_7032019111.dita"
@@ -680,13 +680,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3428 - BONDS AND INSURANCE&#xA;"
+      <topicref navtitle="PART 3428—BONDS AND INSURANCE&#xA;&#xA;&#xA;"
                 href="Part_3428_T48_7032020.dita"
-                props="PART 3428"
+                props="PART 3428—BONDS AND INSURANCE"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3428.3 - Insurance"
+         <topicref navtitle="Subpart 3428.3—Insurance"
                    href="Subpart_3428_3_T48_70320201.dita"
-                   props="Subpart 3428.3"
+                   props="Subpart 3428.3—Insurance"
                    outputclass="SubPart">
             <topicref navtitle="3428.311   Solicitation provision and contract clause on liability insurance under cost-reimbursement contracts."
                       href="Section_3428_311_T48_7032020111.dita"
@@ -698,13 +698,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3432 - CONTRACT FINANCING&#xA;"
+      <topicref navtitle="PART 3432—CONTRACT FINANCING&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3432_T48_7032021.dita"
-                props="PART 3432"
+                props="PART 3432—CONTRACT FINANCING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3432.4 - Advance Payments for Non-Commercial Items"
+         <topicref navtitle="Subpart 3432.4—Advance Payments for Non-Commercial Items"
                    href="Subpart_3432_4_T48_70320211.dita"
-                   props="Subpart 3432.4"
+                   props="Subpart 3432.4—Advance Payments for Non-Commercial Items"
                    outputclass="SubPart">
             <topicref navtitle="3432.402   General."
                       href="Section_3432_402_T48_7032021111.dita"
@@ -715,9 +715,9 @@
                       props="3432.407"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3432.7 - Contract Funding"
+         <topicref navtitle="Subpart 3432.7—Contract Funding"
                    href="Subpart_3432_7_T48_70320212.dita"
-                   props="Subpart 3432.7"
+                   props="Subpart 3432.7—Contract Funding"
                    outputclass="SubPart">
             <topicref navtitle="3432.705   Contract clauses."
                       href="Section_3432_705_T48_7032021211.dita"
@@ -729,13 +729,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3433 - PROTESTS, DISPUTES, AND APPEALS&#xA;"
+      <topicref navtitle="PART 3433—PROTESTS, DISPUTES, AND APPEALS&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3433_T48_7032022.dita"
-                props="PART 3433"
+                props="PART 3433—PROTESTS, DISPUTES, AND APPEALS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3433.1 - Protests"
+         <topicref navtitle="Subpart 3433.1—Protests"
                    href="Subpart_3433_1_T48_70320221.dita"
-                   props="Subpart 3433.1"
+                   props="Subpart 3433.1—Protests"
                    outputclass="SubPart">
             <topicref navtitle="3433.103   Protests to the agency."
                       href="Section_3433_103_T48_7032022111.dita"
@@ -744,17 +744,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER F - SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING&#xA;&#xA;&#xA;"
              href="Subchapter_F_T48_70321.dita"
-             props="SUBCHAPTER F"
+             props="SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3437 - SERVICE CONTRACTING&#xA;"
+      <topicref navtitle="PART 3437—SERVICE CONTRACTING&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3437_T48_7032123.dita"
-                props="PART 3437"
+                props="PART 3437—SERVICE CONTRACTING"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3437.1 - Service Contracts - General"
+         <topicref navtitle="Subpart 3437.1—Service Contracts—General"
                    href="Subpart_3437_1_T48_70321231.dita"
-                   props="Subpart 3437.1"
+                   props="Subpart 3437.1—Service Contracts—General"
                    outputclass="SubPart">
             <topicref navtitle="3437.102   Policy."
                       href="Section_3437_102_T48_7032123111.dita"
@@ -765,18 +765,18 @@
                       props="3437.170"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3437.2 - Advisory and Assistance Services"
+         <topicref navtitle="Subpart 3437.2—Advisory and Assistance Services"
                    href="Subpart_3437_2_T48_70321232.dita"
-                   props="Subpart 3437.2"
+                   props="Subpart 3437.2—Advisory and Assistance Services"
                    outputclass="SubPart">
             <topicref navtitle="3437.270   Services of consultants clause."
                       href="Section_3437_270_T48_7032123211.dita"
                       props="3437.270"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3437.6 - Performance-Based Acquisition"
+         <topicref navtitle="Subpart 3437.6—Performance-Based Acquisition"
                    href="Subpart_3437_6_T48_70321233.dita"
-                   props="Subpart 3437.6"
+                   props="Subpart 3437.6—Performance-Based Acquisition"
                    outputclass="SubPart">
             <topicref navtitle="3437.670   Contract type."
                       href="Section_3437_670_T48_7032123311.dita"
@@ -784,13 +784,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3439 - ACQUISITION OF INFORMATION TECHNOLOGY&#xA;"
+      <topicref navtitle="PART 3439—ACQUISITION OF INFORMATION TECHNOLOGY&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3439_T48_7032124.dita"
-                props="PART 3439"
+                props="PART 3439—ACQUISITION OF INFORMATION TECHNOLOGY"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3439.70 - Department Requirements for Acquisition of Information Technology"
+         <topicref navtitle="Subpart 3439.70—Department Requirements for Acquisition of Information Technology"
                    href="Subpart_3439_70_T48_70321241.dita"
-                   props="Subpart 3439.70"
+                   props="Subpart 3439.70—Department Requirements for Acquisition of Information Technology"
                    outputclass="SubPart">
             <topicref navtitle="3439.701   Internet Protocol version 6."
                       href="Section_3439_701_T48_7032124111.dita"
@@ -807,17 +807,17 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER G - CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER G—CONTRACT MANAGEMENT&#xA;&#xA;&#xA;"
              href="Subchapter_G_T48_70322.dita"
-             props="SUBCHAPTER G"
+             props="SUBCHAPTER G—CONTRACT MANAGEMENT"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3442 - CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;"
+      <topicref navtitle="PART 3442—CONTRACT ADMINISTRATION AND AUDIT SERVICES&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3442_T48_7032225.dita"
-                props="PART 3442"
+                props="PART 3442—CONTRACT ADMINISTRATION AND AUDIT SERVICES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3442.70 - Contract Monitoring"
+         <topicref navtitle="Subpart 3442.70—Contract Monitoring"
                    href="Subpart_3442_70_T48_70322251.dita"
-                   props="Subpart 3442.70"
+                   props="Subpart 3442.70—Contract Monitoring"
                    outputclass="SubPart">
             <topicref navtitle="3442.7001   Litigation and claims clause."
                       href="Section_3442_7001_T48_7032225111.dita"
@@ -828,9 +828,9 @@
                       props="3442.7002"
                       outputclass="Section"/>
          </topicref>
-         <topicref navtitle="Subpart 3442.71 - Accessibility of Meetings, Conferences, and Seminars to Persons with Disabilities"
+         <topicref navtitle="Subpart 3442.71—Accessibility of Meetings, Conferences, and Seminars to Persons with Disabilities"
                    href="Subpart_3442_71_T48_70322252.dita"
-                   props="Subpart 3442.71"
+                   props="Subpart 3442.71—Accessibility of Meetings, Conferences, and Seminars to Persons with Disabilities"
                    outputclass="SubPart">
             <topicref navtitle="3442.7101   Policy and clause."
                       href="Section_3442_7101_T48_7032225211.dita"
@@ -838,13 +838,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3443 - CONTRACT MODIFICATIONS&#xA;"
+      <topicref navtitle="PART 3443—CONTRACT MODIFICATIONS&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3443_T48_7032226.dita"
-                props="PART 3443"
+                props="PART 3443—CONTRACT MODIFICATIONS"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3443.1 - General"
+         <topicref navtitle="Subpart 3443.1—General"
                    href="Subpart_3443_1_T48_70322261.dita"
-                   props="Subpart 3443.1"
+                   props="Subpart 3443.1—General"
                    outputclass="SubPart">
             <topicref navtitle="3443.107   Contract clause."
                       href="Section_3443_107_T48_7032226111.dita"
@@ -852,13 +852,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3445 - GOVERNMENT PROPERTY&#xA;"
+      <topicref navtitle="PART 3445—GOVERNMENT PROPERTY&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3445_T48_7032227.dita"
-                props="PART 3445"
+                props="PART 3445—GOVERNMENT PROPERTY"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3445.4 - Contractor Use and Rental of Government Property"
+         <topicref navtitle="Subpart 3445.4—Contractor Use and Rental of Government Property"
                    href="Subpart_3445_4_T48_70322271.dita"
-                   props="Subpart 3445.4"
+                   props="Subpart 3445.4—Contractor Use and Rental of Government Property"
                    outputclass="SubPart">
             <topicref navtitle="3445.405   Contracts with foreign governments or international organizations."
                       href="Section_3445_405_T48_7032227111.dita"
@@ -866,13 +866,13 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PART 3447 - TRANSPORTATION&#xA;"
+      <topicref navtitle="PART 3447—TRANSPORTATION&#xA;&#xA;&#xA;&#xA;&#xA;"
                 href="Part_3447_T48_7032228.dita"
-                props="PART 3447"
+                props="PART 3447—TRANSPORTATION"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3447.7 - Foreign Travel"
+         <topicref navtitle="Subpart 3447.7—Foreign Travel"
                    href="Subpart_3447_7_T48_70322281.dita"
-                   props="Subpart 3447.7"
+                   props="Subpart 3447.7—Foreign Travel"
                    outputclass="SubPart">
             <topicref navtitle="3447.701   Foreign travel clause."
                       href="Section_3447_701_T48_7032228111.dita"
@@ -881,23 +881,23 @@
          </topicref>
       </topicref>
    </topicref>
-   <topicref navtitle="SUBCHAPTER H - CLAUSES AND FORMS&#xA;&#xA;&#xA;"
+   <topicref navtitle="SUBCHAPTER H—CLAUSES AND FORMS&#xA;&#xA;&#xA;"
              href="Subchapter_H_T48_70323.dita"
-             props="SUBCHAPTER H"
+             props="SUBCHAPTER H—CLAUSES AND FORMS"
              outputclass="SubChapter">
-      <topicref navtitle="PART 3452 - SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;"
+      <topicref navtitle="PART 3452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES&#xA;&#xA;&#xA;"
                 href="Part_3452_T48_7032329.dita"
-                props="PART 3452"
+                props="PART 3452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES"
                 outputclass="Part">
-         <topicref navtitle="Subpart 3452.2 - Text of Provisions and Clauses"
+         <topicref navtitle="Subpart 3452.2—Text of Provisions and Clauses"
                    href="Subpart_3452_2_T48_70323291.dita"
-                   props="Subpart 3452.2"
+                   props="Subpart 3452.2—Text of Provisions and Clauses"
                    outputclass="SubPart">
             <topicref navtitle="3452.201-70   Contracting Officer's Representative (COR)."
                       href="Section_3452_201_70_T48_7032329111.dita"
                       props="3452.201-70"
                       outputclass="Section"/>
-            <topicref navtitle="3452.202-1   Definitions - Department of Education."
+            <topicref navtitle="3452.202-1   Definitions—Department of Education."
                       href="Section_3452_202_1_T48_7032329112.dita"
                       props="3452.202-1"
                       outputclass="Section"/>
@@ -1015,9 +1015,9 @@
                       outputclass="Section"/>
          </topicref>
       </topicref>
-      <topicref navtitle="PARTS 3453-3499 [RESERVED]&#xA;&#xA;&#xA;"
+      <topicref navtitle="PARTS 3453–3499 [RESERVED]&#xA;&#xA;&#xA;"
                 href="Part_3453_3499_T48_7032330.dita"
-                props="PARTS 3453-3499 [RESERVED]"
+                props="PARTS 3453–3499 [RESERVED]"
                 outputclass="Part"/>
    </topicref>
 </map>

@@ -3,8 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3432_T48_7032021">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3432</ph> - CONTRACT FINANCING</title>
+      <title class="- topic/title ">PART 3432—CONTRACT FINANCING
+
+
+
+
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +26,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3432_4_T48_70320211.dita#Subpart_3432_4_T48_70320211">Subpart 3432.4 - Advance Payments for Non-Commercial Items</xref>
+                        href="Subpart_3432_4_T48_70320211.dita#Subpart_3432_4_T48_70320211">Subpart 3432.4—Advance Payments for Non-Commercial Items</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -42,7 +46,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3432_7_T48_70320212.dita#Subpart_3432_7_T48_70320212">Subpart 3432.7 - Contract Funding</xref>
+                        href="Subpart_3432_7_T48_70320212.dita#Subpart_3432_7_T48_70320212">Subpart 3432.7—Contract Funding</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
