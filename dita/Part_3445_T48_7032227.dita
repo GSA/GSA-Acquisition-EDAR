@@ -3,8 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3445_T48_7032227">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3445</ph> - GOVERNMENT PROPERTY</title>
+      <title class="- topic/title ">PART 3445—GOVERNMENT PROPERTY
+
+
+
+
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +26,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3445_4_T48_70322271.dita#Subpart_3445_4_T48_70322271">Subpart 3445.4 - Contractor Use and Rental of Government Property</xref>
+                        href="Subpart_3445_4_T48_70322271.dita#Subpart_3445_4_T48_70322271">Subpart 3445.4—Contractor Use and Rental of Government Property</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

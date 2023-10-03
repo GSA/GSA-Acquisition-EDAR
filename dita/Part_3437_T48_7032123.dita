@@ -3,8 +3,12 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_3437_T48_7032123">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 3437</ph> - SERVICE CONTRACTING</title>
+      <title class="- topic/title ">PART 3437—SERVICE CONTRACTING
+
+
+
+
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +26,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3437_1_T48_70321231.dita#Subpart_3437_1_T48_70321231">Subpart 3437.1 - Service Contracts - General</xref>
+                        href="Subpart_3437_1_T48_70321231.dita#Subpart_3437_1_T48_70321231">Subpart 3437.1—Service Contracts—General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -42,7 +46,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3437_2_T48_70321232.dita#Subpart_3437_2_T48_70321232">Subpart 3437.2 - Advisory and Assistance Services</xref>
+                        href="Subpart_3437_2_T48_70321232.dita#Subpart_3437_2_T48_70321232">Subpart 3437.2—Advisory and Assistance Services</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -56,7 +60,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_3437_6_T48_70321233.dita#Subpart_3437_6_T48_70321233">Subpart 3437.6 - Performance-Based Acquisition</xref>
+                        href="Subpart_3437_6_T48_70321233.dita#Subpart_3437_6_T48_70321233">Subpart 3437.6—Performance-Based Acquisition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
