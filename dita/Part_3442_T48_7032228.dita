@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3442_T48_7032228">
+      <title class="- topic/title ">PART 3442—CONTRACT ADMINISTRATION AND AUDIT SERVICES
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           88 FR 60542, Sept. 1, 2023, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3442_70_T48_70322281.dita#Subpart_3442_70_T48_70322281">Subpart 3442.70—Contract Monitoring</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3442_7001_T48_7032228111.dita#Section_3442_7001_T48_7032228111">3442.7001 Litigation and claims clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3442_7002_T48_7032228112.dita#Section_3442_7002_T48_7032228112">3442.7002 Delays clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3442_71_T48_70322282.dita#Subpart_3442_71_T48_70322282">Subpart 3442.71—Accessibility of Meetings, Conferences, and Seminars to Persons With Disabilities</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3442_7101_T48_7032228211.dita#Section_3442_7101_T48_7032228211">3442.7101 Policy and clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
