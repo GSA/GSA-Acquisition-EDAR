@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3447_T48_7032231">
+      <title class="- topic/title ">PART 3447—TRANSPORTATION
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           88 FR 60542, Sept. 1, 2023, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3447_7_T48_70322311.dita#Subpart_3447_7_T48_70322311">Subpart 3447.7—Foreign Travel</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3447_701_T48_7032231111.dita#Section_3447_701_T48_7032231111">3447.701 Foreign travel clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

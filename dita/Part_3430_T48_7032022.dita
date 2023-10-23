@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3430_T48_7032022">
+      <title class="- topic/title ">PART 3430—COST ACCOUNTING STANDARDS ADMINISTRATION
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301; 40 U.S.C. 121(c); and 41 U.S.C. 3102.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           88 FR 60542, Sept. 1, 2023, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3430_201_T48_70320221.dita#Subpart_3430_201_T48_70320221">Subpart 3430.201—CAS Program Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3430_201_T48_7032022111.dita#Section_3430_201_T48_7032022111">3430.201 Contract requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3430_201_5_T48_7032022112.dita#Section_3430_201_5_T48_7032022112">3430.201-5 Waiver.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

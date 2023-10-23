@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_3452_239_70_T48_70323321127">
+      <title class="- topic/title ">
+         <ph props="autonumber">3452.239-70</ph> Internet protocol version 6 (IPv6).</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 3439.701, insert the following clause in all solicitations and resulting contracts for hardware and software:
+</p>
+                                 <p xtrc="HD1">Internet Protocol Version 6 (OCT 2023)
+</p>
+                                 <p outputclass="List1">(a) Any system hardware, software, firmware, or networked component (voice, video, or data) developed, procured, or acquired in support or performance of this contract shall be capable of transmitting, receiving, processing, forwarding, and storing digital information across system boundaries utilizing the next-generation internet Protocol (IP) version 6 (IPv6) as defined in revised USGv6 profile (most recent version of NIST Special Publication 500–267B) and NISTv6 profile (most recent version of NIST Special Publication 500–267A).
+</p>
+                                 <p outputclass="List1">(b) Specifically, any new IP product or system developed, acquired, or produced must—
+</p>
+                                 <p outputclass="List2">(1) Provide IPv6 technical capabilities as outlined in the most recent version of USGv6 Capabilities Table (UCT);
+</p>
+                                 <p outputclass="List2">(2) Maintain interoperability with both IPv6 and any existing IPv4 systems and products; and
+</p>
+                                 <p outputclass="List2">(3) Have available Contractor/vendor IPv6 technical support for development and implementation and fielded product management.
+</p>
+                                 <p outputclass="List1">(c) Any exceptions to the use of IPv6 require the agency's CIO to give advance, written approval.</p>
+                              <p xtrc="HD3">(End of clause)
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

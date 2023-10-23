@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3439_T48_7032127">
+      <title class="- topic/title ">PART 3439—ACQUISITION OF INFORMATION TECHNOLOGY
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301 and 20 U.S.C. 1018a.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           88 FR 60542, Sept. 1, 2023, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3439_70_T48_70321271.dita#Subpart_3439_70_T48_70321271">Subpart 3439.70—Department Requirements for Acquisition of Information Technology</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3439_701_T48_7032127111.dita#Section_3439_701_T48_7032127111">3439.701 Internet protocol version 6.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3439_702_T48_7032127112.dita#Section_3439_702_T48_7032127112">3439.702 Department information security and privacy requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_3407_T48_703177">
+      <title class="- topic/title ">PART 3407—ACQUISITION PLANNING
+</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           5 U.S.C. 301.
+
+
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           88 FR 60542, Sept. 1, 2023, unless otherwise noted.
+
+
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_3407_1_T48_7031771.dita#Subpart_3407_1_T48_7031771">Subpart 3407.1—Acquisition Plans</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_3407_103_T48_703177111.dita#Section_3407_103_T48_703177111">3407.103 Agency-head responsibilities.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
